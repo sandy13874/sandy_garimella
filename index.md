@@ -21,4 +21,4 @@ My final milestone is the increased reliability and accuracy of my robot. I amel
 
 My first milestone was completing the wiring for the circuit. I had to use breadboards instead of soldering the rainbow cables directly to the chip as I was unable to unsolder the pins. I also didn't have the right resistors, so I had to place resistors in parallel and resistors in series to increase and decrease the resistance.
 
-[![First Milestone](https://res.cloudinary.com/marcomontalbano/image/upload/v1612574117/video_to_markdown/images/youtube--CaCazFBhYKs-c05b58ac6eb4c4700831b2b3070cd403.jpg)]([https://www.youtube.com/watch?v=CaCazFBhYKs](https://www.youtube.com/watch?v=8sdhcQSrh5E) "First Milestone"){:target="_blank" rel="noopener"}
+[![First Milestone](https://res.cloudinary.com/marcomontalbano/image/upload/v1612574117/video_to_markdown/images/youtube--CaCazFBhYKs-c05b58ac6eb4c4700831b2b3070cd403.jpg)]([[https://www.youtube.com/watch?v=CaCazFBhYKs](https://www.youtube.com/watch?v=8sdhcQSrh5E)](https://www.youtube.com/watch?v=8sdhcQSrh5E) "First Milestone"){:target="_blank" rel="noopener"}

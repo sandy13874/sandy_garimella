@@ -7,7 +7,7 @@ My device allows one to wirelessly control and use Zoom. The device can do short
 
 
 
-<img src="https://user-images.githubusercontent.com/110052549/184468714-2a215958-863e-45a4-92ed-b016501ff41d.jpeg" width="200" height="400" />
+<img src="https://user-images.githubusercontent.com/110052549/184468714-2a215958-863e-45a4-92ed-b016501ff41d.jpeg" width="200" height="200" />
 
 
 

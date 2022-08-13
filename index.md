@@ -5,7 +5,11 @@ My device allows one to wirelessly control and use Zoom. The device can do short
 |:--:|:--:|:--:|:--:|
 | **Sandilya G** | **Amador Valley High School** | **Biomedical Engineering** | **Rising Sophomore** |
 
-![Headstone Image](https://github.com/BlueStampEng/BSE_Template_Portfolio/blob/4655d8c4b2f1d0fa5912511d0b39542520b9f88e/branding/BlueStamp-Engineering-Logo-White.png)
+
+
+<img src="IMAGE_LINK" width="200" height="400" />
+
+![IMG_2719](https://user-images.githubusercontent.com/110052549/184468656-ea2ba353-f360-469e-b0ed-a544b586a096.jpeg)
 
 
 # Project Demo

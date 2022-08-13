@@ -9,7 +9,7 @@ My device allows one to wirelessly control and use Zoom. The device can do short
 
 <img src="IMAGE_LINK" width="200" height="400" />
 
-![IMG_2719](https://user-images.githubusercontent.com/110052549/184468656-ea2ba353-f360-469e-b0ed-a544b586a096.jpeg)
+
 
 
 # Project Demo

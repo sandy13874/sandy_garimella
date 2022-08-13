@@ -16,7 +16,7 @@ My device allows one to wirelessly control and use Zoom. The device can do short
 # Project Demo
 During my project demo, I show my project and how it works from the user's point of view. 
 
-[![Project Demo](https://res.cloudinary.com/marcomontalbano/image/upload/v1612573869/video_to_markdown/images/youtube--F7M7imOVGug-c05b58ac6eb4c4700831b2b3070cd403.jpg )](https://www.youtube.com/watch?v=F7M7imOVGug&feature=emb_logo "Final Milestone"){:target="_blank" rel="noopener"}
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Gx6wqQ3Nryg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
   
 # Final Milestone

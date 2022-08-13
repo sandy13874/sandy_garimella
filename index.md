@@ -1,7 +1,7 @@
 ﻿# Bluetooth Zoom/OBS Controller
 My device allows one to wirelessly control and use Zoom. The device can do shortcuts such as: muting mic, video on/off, screen sharing, and many more.
 
-| **   Engineer ** | **School** | **Area of Interest** | **Grade** |
+| **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
 | **Sandilya G** | **Amador Valley High School** | **Biomedical Engineering** | **Rising Sophomore** |
 
